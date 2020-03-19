@@ -28,5 +28,7 @@ BIRD_IMAGE_PATHS = {
                             'up':os.path.join(os.getcwd(),'resources/images/redbird-upflap.png'),
                             # 定义小鸟翅膀_中的图片
                             'mid':os.path.join(os.getcwd(),'resources/images/redbird-midflap.png'),
+                            # 定义小鸟翅膀_下的图片
+                            'down':os.path.join(os.getcwd(),'resources/images/redbird-downflap.png'),
                         },
                     }
