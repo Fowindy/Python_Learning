@@ -25,6 +25,7 @@ BIRD_IMAGE_PATHS = {
                     # 定义红色的鸟
                     'red'：
                         {
-                        
+                            # 定义小鸟翅膀_上的图片
+                            'up':os.path.join(os.getcwd(),'resources/images/redbird-upflap.png'),
                         }
                     }
