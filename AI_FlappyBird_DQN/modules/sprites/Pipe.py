@@ -15,3 +15,4 @@ import random # 导入random模块:用于生成管道中的随机变量
 import pygame # 导入pygame模块:用于管道界面的设计和显示
 '''pipe class'''
 class Pipe(pygame.sprite.Sprite) # 新建pipe class类继承精灵序列图实现动画
+    def __init__(self,image,position,type_,**kwargs): # 初始化精灵序列图
