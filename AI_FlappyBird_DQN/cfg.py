@@ -86,4 +86,6 @@ AUDIO_PATHS = {
     'hit':os.path.join(os.getcwd(),'resources/audios/hit.wav'),
     # 得分的声音
     'point':os.path.join(os.getcwd(),'resources/audios/point.wav'),
+    # 飞翔的声音
+    'swoosh':os.path.join(os.getcwd(),'resources/audios/swoosh.wav'),
     }
