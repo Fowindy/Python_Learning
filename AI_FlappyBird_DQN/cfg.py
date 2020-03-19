@@ -80,5 +80,6 @@ OTHER_IMAGE_PATHS = {
     }
 # 各种声音路径
 AUDIO_PATHS = {
-    
+    # 死亡的声音
+    'die':os.path.join(os.getcwd(),'resources/audios/die.wav'),
     }
