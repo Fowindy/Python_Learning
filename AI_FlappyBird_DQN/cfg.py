@@ -62,3 +62,7 @@ BACKGROUND_IMAGE_PATHS = {
     # 晚上背景图
     'night':os.path.join(os.getcwd(),'resources/images/background-night.png')
     }
+# 定义管道图片路径
+PIPE_IMAGE_PATHS = {
+
+    }
