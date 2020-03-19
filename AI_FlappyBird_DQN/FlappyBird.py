@@ -16,4 +16,4 @@ import sys # 导入sys模块:用于操控python的运行时环境
 import random # 导入random模块:用于生成游戏中的随机变量
 import pygame # 导入pygame模块:用于设计游戏界面
 import argparse # 导入argparse模块:用于解析命令行参数
-form modules.sprites.Pipe import * # 导入本地模型模块
+from modules.sprites.Pipe import * # 导入本地精灵类Pipe模块

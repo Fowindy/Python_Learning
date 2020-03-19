@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9857373f-9ea4-4b9b-b431-04382d9e0991</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>FlappyBird.py</StartupFile>
+    <StartupFile>cfg.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -27,6 +27,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="FlappyBird.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="modules\sprites\Bird.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="modules\sprites\Pipe.py">
