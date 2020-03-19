@@ -11,3 +11,4 @@ github:
         2020年3月19日 星期四 16:07:30 
 '''
 import os #导入os模块：负责程序和操作系统之间的交互
+import random # 导入random模块:用于生成管道中的随机变量
