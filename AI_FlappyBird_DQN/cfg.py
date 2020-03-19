@@ -5,3 +5,5 @@ FPS = 30
 # 定义屏幕尺寸宽和高
 SCREENWIDTH = 288
 SCREENHEIGHT = 512
+# 定义管道出现的间距
+PIPE_GAP_SIZE = 100
