@@ -82,4 +82,6 @@ OTHER_IMAGE_PATHS = {
 AUDIO_PATHS = {
     # 死亡的声音
     'die':os.path.join(os.getcwd(),'resources/audios/die.wav'),
+    # 撞击的声音
+    'hit':os.path.join(os.getcwd(),'resources/audios/hit.wav'),
     }
