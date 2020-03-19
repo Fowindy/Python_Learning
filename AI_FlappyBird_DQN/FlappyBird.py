@@ -12,3 +12,4 @@ github:
 '''
 import os #导入os模块：负责程序和操作系统之间的交互
 import cfg #导入cfg配置文件模块：用于调用游戏参数以及资源
+import sys # 导入sys模块:用于操控python的运行时环境
