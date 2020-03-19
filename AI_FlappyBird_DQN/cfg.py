@@ -1,4 +1,15 @@
-# 配置文件
+'''
+功能描述:
+        游戏界面相关配置参数
+作者:
+    Fowindy
+微信:
+    17786508658
+github:
+       https://github.com/Fowindy/Python_Learning.git
+创建时间:
+        2020年03月19日 13:32:43   
+'''
 import os #导入os模块：负责程序和操作系统之间的交互
 # 定义屏幕刷新的帧率参数FPS
 FPS = 30
@@ -31,10 +42,16 @@ BIRD_IMAGE_PATHS = {
                             # 定义小鸟翅膀_下的图片
                             'down':os.path.join(os.getcwd(),'resources/images/redbird-downflap.png'),
                         },
-                    # 定义蓝色小鸟
+                    # 定义蓝色的小鸟
                     'blue':{
                         'up':os.path.join(os.getcwd(),'resources/images/bluebird-upflap.png'),
                         'mid':os.path.join(os.getcwd(),'resources/images/bluebird-midflap.png'),
                         'down':os.path.join(os.getcwd(),'resources/images/bluebird-downflap.png')
                         },
+                    # 定义黄色的小鸟
+                    'yellow':{
+                        'up':os.path.join(os.getcwd(),'resources/images/yellowbird-upflap.png'),
+                        'mid':os.path.join(os.getcwd(),'resources/images/yellowbird-midflap.png'),
+                        'down':os.path.join(os.getcwd(),'resources/images/yellowbird-downflap.png')
+                        }
                     }
