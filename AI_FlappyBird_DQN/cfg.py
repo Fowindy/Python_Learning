@@ -78,3 +78,7 @@ OTHER_IMAGE_PATHS = {
     # 石基界面图
     'base':os.path.join(os.getcwd(),'resources/images/base.png')
     }
+# 各种声音路径
+AUDIO_PATHS = {
+    
+    }
