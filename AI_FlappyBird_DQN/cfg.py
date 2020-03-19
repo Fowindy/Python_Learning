@@ -69,3 +69,7 @@ PIPE_IMAGE_PATHS = {
     # 绿色管道图
     'green':os.path.join(os.getcwd(),'resources/images/pipe-green.png')
     }
+# 定义其它图片路径
+OTHER_IMAGE_PATHS = {
+    
+    }
