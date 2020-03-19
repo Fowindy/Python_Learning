@@ -31,4 +31,10 @@ BIRD_IMAGE_PATHS = {
                             # 定义小鸟翅膀_下的图片
                             'down':os.path.join(os.getcwd(),'resources/images/redbird-downflap.png'),
                         },
+                    # 定义蓝色小鸟
+                    'blue':{
+                        'up':os.path.join(os.getcwd(),'resources/images/bluebird-upflap.png'),
+                        'mid':os.path.join(os.getcwd(),'resources/images/bluebird-midflap.png'),
+                        'down':os.path.join(os.getcwd(),'resources/images/bluebird-downflap.png')
+                        },
                     }
