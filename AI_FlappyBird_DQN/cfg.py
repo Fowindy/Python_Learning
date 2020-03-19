@@ -23,9 +23,10 @@ NUMBER_IMAGE_PATHS = {
 # 定义小鸟图片路径
 BIRD_IMAGE_PATHS = {
                     # 定义红色的鸟
-                    'red'：
-                        {
+                    'red':{
                             # 定义小鸟翅膀_上的图片
                             'up':os.path.join(os.getcwd(),'resources/images/redbird-upflap.png'),
-                        }
+                            # 定义小鸟翅膀_中的图片
+                            'mid':os.path.join(os.getcwd(),'resources/images/redbird-midflap.png'),
+                        },
                     }
