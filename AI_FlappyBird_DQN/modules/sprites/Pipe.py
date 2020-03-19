@@ -23,3 +23,5 @@ class Pipe(pygame.sprite.Sprite): # 新建pipe class类继承精灵序列图实�
         self.rect = self.image.get_rect()
         # 将图片设为封面
         self.mask = pygame.mask.from_surface(self.image)
+        # 为显示区域的左上角赋值当前位置座标
+        self.rect.left,self.rect.top = position
