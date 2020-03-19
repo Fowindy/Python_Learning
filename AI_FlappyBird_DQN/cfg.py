@@ -84,4 +84,6 @@ AUDIO_PATHS = {
     'die':os.path.join(os.getcwd(),'resources/audios/die.wav'),
     # 撞击的声音
     'hit':os.path.join(os.getcwd(),'resources/audios/hit.wav'),
+    # 得分的声音
+    'point':os.path.join(os.getcwd(),'resources/audios/point.wav'),
     }
