@@ -66,4 +66,6 @@ BACKGROUND_IMAGE_PATHS = {
 PIPE_IMAGE_PATHS = {
     # 红色管道图
     'red':os.path.join(os.getcwd(),'resources/images/pipe-red.png'),
+    # 绿色管道图
+    'green':os.path.join(os.getcwd(),'resources/images/pipe-green.png')
     }
