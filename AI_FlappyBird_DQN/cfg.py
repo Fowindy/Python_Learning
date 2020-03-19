@@ -7,3 +7,4 @@ SCREENWIDTH = 288
 SCREENHEIGHT = 512
 # 定义管道出现的间距
 PIPE_GAP_SIZE = 100
+# 定义数字图片路径
