@@ -59,4 +59,6 @@ BIRD_IMAGE_PATHS = {
 BACKGROUND_IMAGE_PATHS = {
     # 白天背景图
     'day':os.path.join(os.getcwd(),'resources/images/background-day.png'),
+    # 晚上背景图
+    'night':os.path.join(os.getcwd(),'resources/images/background-night.png')
     }
