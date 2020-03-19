@@ -22,5 +22,9 @@ NUMBER_IMAGE_PATHS = {
                       }
 # 定义小鸟图片路径
 BIRD_IMAGE_PATHS = {
-
+                    # 定义红色的鸟
+                    'red'：
+                        {
+                        
+                        }
                     }
