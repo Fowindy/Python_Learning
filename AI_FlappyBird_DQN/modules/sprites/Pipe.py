@@ -19,3 +19,7 @@ class Pipe(pygame.sprite.Sprite): # 新建pipe class类继承精灵序列图实�
         pygame.sprite.Sprite.__init__(self) # 调用基类的init方法
         # 为图片属性赋值
         self.image = image
+        # 获取图片的尺寸为显示区域赋值
+        self.rect = self.image.get_rect()
+        # 将图片设为封面
+        self.mask = pygame.mask.from_surface(self.image)
