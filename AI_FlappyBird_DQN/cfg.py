@@ -75,4 +75,6 @@ OTHER_IMAGE_PATHS = {
     'gameover':os.path.join(os.getcwd(),'resources/images/gameover.png'),
     # 提示信息界面图
     'message':os.path.join(os.getcwd(),'resources/images/message.png'),
+    # 石基界面图
+    'base':os.path.join(os.getcwd(),'resources/images/base.png')
     }
