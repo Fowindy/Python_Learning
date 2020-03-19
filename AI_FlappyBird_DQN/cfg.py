@@ -57,5 +57,6 @@ BIRD_IMAGE_PATHS = {
                     }
 # 定义背景图片路径
 BACKGROUND_IMAGE_PATHS = {
-
+    # 白天背景图
+    'day':os.path.join(os.getcwd(),'resources/images/background-day.png'),
     }
