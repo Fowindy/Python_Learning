@@ -27,5 +27,7 @@ class Pipe(pygame.sprite.Sprite): # 新建pipe class类继承精灵序列图实�
         self.rect.left,self.rect.top = position
         # 类型参数默认即可
         self.type_ = type_
+        # 默认是否使用分数为False
+        self.used_for_score = False;
 
 
