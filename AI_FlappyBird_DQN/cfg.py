@@ -73,4 +73,6 @@ PIPE_IMAGE_PATHS = {
 OTHER_IMAGE_PATHS = {
     # 游戏结束界面图
     'gameover':os.path.join(os.getcwd(),'resources/images/gameover.png'),
+    # 提示信息界面图
+    'message':os.path.join(os.getcwd(),'resources/images/message.png'),
     }
