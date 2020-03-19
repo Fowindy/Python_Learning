@@ -88,4 +88,6 @@ AUDIO_PATHS = {
     'point':os.path.join(os.getcwd(),'resources/audios/point.wav'),
     # 飞翔的声音
     'swoosh':os.path.join(os.getcwd(),'resources/audios/swoosh.wav'),
+    # 拍翅膀的声音
+    'wing':os.path.join(os.getcwd(),'resources/audios/wing.wav')
     }
