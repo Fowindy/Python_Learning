@@ -55,3 +55,7 @@ BIRD_IMAGE_PATHS = {
                         'down':os.path.join(os.getcwd(),'resources/images/yellowbird-downflap.png')
                         }
                     }
+# 定义背景图片路径
+BACKGROUND_IMAGE_PATHS = {
+
+    }
