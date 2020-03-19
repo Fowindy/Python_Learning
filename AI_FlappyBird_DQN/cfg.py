@@ -20,3 +20,7 @@ NUMBER_IMAGE_PATHS = {
                         '8':os.path.join(os.getcwd(),'resources/images/8.png'),
                         '9':os.path.join(os.getcwd(),'resources/images/9.png'),
                       }
+# 定义小鸟图片路径
+BIRD_IMAGE_PATHS = {
+
+                    }
