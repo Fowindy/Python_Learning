@@ -71,5 +71,6 @@ PIPE_IMAGE_PATHS = {
     }
 # 定义其它图片路径
 OTHER_IMAGE_PATHS = {
-    
+    # 游戏结束界面图
+    'gameover':os.path.join(os.getcwd(),'resources/images/gameover.png'),
     }
